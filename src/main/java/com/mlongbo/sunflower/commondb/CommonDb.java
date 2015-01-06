@@ -1,5 +1,6 @@
 package com.mlongbo.sunflower.commondb;
 
+import com.mlongbo.sunflower.commondb.exception.DbException;
 import com.mlongbo.sunflower.commondb.util.StringUtils;
 import org.apache.commons.dbutils.ResultSetHandler;
 import org.apache.commons.dbutils.handlers.BeanHandler;

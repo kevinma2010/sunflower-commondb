@@ -1,4 +1,4 @@
-package com.mlongbo.sunflower.commondb;
+package com.mlongbo.sunflower.commondb.exception;
 
 /**
  * @author malongbo
